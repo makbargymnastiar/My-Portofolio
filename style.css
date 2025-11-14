@@ -314,10 +314,12 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(85, 85, 85);
+  color: black;
   font-weight: 600;
   font-size: 1.75rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
+  text-decoration: underline;
+  text-underline-offset: 0.7rem;
 }
 
 .experience-details-container {
@@ -331,13 +333,12 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 2.5rem;
+  gap: 3.5rem;
   justify-content: space-around;
 }
 
 article {
   display: flex;
-  width: 10rem;
   justify-content: space-between;
   gap: 0.5rem;
 }
