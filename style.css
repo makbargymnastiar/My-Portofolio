@@ -53,7 +53,7 @@ a {
 a:hover {
   color: rgb(25, 5, 244);
   text-decoration: underline;
-  text-underline-offset: 1rem;
+  text-underline-offset: 0.5rem;
   text-decoration-color: rgb(25, 5, 244);
 }
 
