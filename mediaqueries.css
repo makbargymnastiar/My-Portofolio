@@ -3,7 +3,8 @@
     height: 83vh;
     margin-bottom: 6rem;
   }
-  .about-container {
+  .about-container,
+  .experience-container {
     flex-wrap: wrap;
   }
 
@@ -74,6 +75,7 @@
   }
 
   .about-container,
+  .experirience-container,
   .contact-info-upper-container,
   .btn-container {
     flex-wrap: wrap;
@@ -89,7 +91,8 @@
     font-size: 1rem;
   }
 
-  .experience-sub-title {
+  .experience-sub-title,
+  .project-title {
     font-size: 1.25rem;
   }
 
@@ -108,7 +111,8 @@
     justify-content: center;
   }
 
-  .section-text-p2 {
+  .section-text-p2,
+  .project-text-p2 {
     font-size: 1.25rem;
   }
 

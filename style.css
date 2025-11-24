@@ -314,6 +314,7 @@ section {
 }
 
 .experience-sub-title {
+  text-decoration: underline;
   color: black;
   font-weight: 600;
   font-size: 1.75rem;
@@ -324,6 +325,23 @@ section {
   display: flex;
   justify-content: center;
   flex-direction: column;
+}
+
+.experience-container {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+.experience-details {
+  padding: 1.5rem;
+  flex: 1;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
 }
 
 .article-container {
@@ -420,6 +438,15 @@ article.icon {
 .project-title {
   margin: 1rem;
   color: black;
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-bottom: 2rem;
+}
+
+.project-text-p2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+  text-decoration: underline;
 }
 
 .btn-container {
