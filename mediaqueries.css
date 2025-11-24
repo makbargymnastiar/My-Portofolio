@@ -113,12 +113,21 @@
   }
 
   .project-details-container {
-    width: 8rem; /* lebih kecil agar muat di satu baris */
+    width: 8rem;
     padding: 1rem;
   }
 
   .project-img {
     width: 100%;
-    height: auto; /* biar gambar responsive */
+    height: auto;
+  }
+
+  .btn-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .project-btn {
+    width: 6rem;
+    padding: 0.5rem 0.75rem;
   }
 }
