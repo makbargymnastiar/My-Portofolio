@@ -124,7 +124,7 @@
     padding: 1rem 1.5rem;
   }
 
-  /*qProject Section*/
+  /*Project Section*/
   .project-container {
     display: flex;
     flex-wrap: nowrap; /* card tetap di satu baris */
