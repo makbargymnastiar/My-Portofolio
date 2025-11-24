@@ -351,6 +351,32 @@ article.icon {
   position: relative;
 }
 
+.project-container {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  flex-wrap: wrap; /* tambahkan ini */
+  justify-content: center; /* opsional tapi bikin rapi */
+}
+
+.project-details-container {
+  padding: 1.5rem;
+  width: 12rem;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+}
+
+.project-article-container {
+  display: flex;
+  align-items: center;
+
+  justify-content: center;
+}
+
 .color-container {
   border-color: rgb(163, 163, 163);
   background: rgb(250, 250, 250);
