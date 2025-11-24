@@ -27,7 +27,7 @@
   }
 
   #profile,
-  .section-container {
+  .section-about-container {
     display: block;
   }
   .arrow {
@@ -35,7 +35,7 @@
   }
 
   section,
-  .section-container {
+  .section-about-container {
     height: fit-content;
   }
 
@@ -106,7 +106,7 @@
     text-align: justify;
   }
   section {
-    padding: 1rem 2rem;
+    padding: 1rem 1.5rem;
   }
   .contact-info-container {
     padding: 0 0.5rem;

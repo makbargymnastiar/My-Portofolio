@@ -150,7 +150,7 @@ section {
   min-height: fit-content;
 }
 
-.section-container {
+.section-about-container {
   display: flex;
 }
 
@@ -296,7 +296,7 @@ section {
   text-align: center;
 }
 
-.section-container {
+.section-about-container {
   gap: 4rem;
   height: 80%;
 }
