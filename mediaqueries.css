@@ -111,4 +111,14 @@
   .contact-info-container {
     padding: 0 0.5rem;
   }
+
+  .project-details-container {
+    width: 8rem; /* lebih kecil agar muat di satu baris */
+    padding: 1rem;
+  }
+
+  .project-img {
+    width: 100%;
+    height: auto; /* biar gambar responsive */
+  }
 }
