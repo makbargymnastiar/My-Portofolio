@@ -375,8 +375,8 @@ article.icon {
   flex-direction: column;
 }
 
-.project-level {
-  padding: 1rem;
+.project-wrapper {
+  padding: 0 1rem;
 }
 
 .project-wrapper {
@@ -445,7 +445,6 @@ article.icon {
 
 .project-text-p2 {
   font-size: 1.75rem;
-  margin-bottom: 1rem;
   text-decoration: underline;
 }
 
@@ -477,6 +476,7 @@ article.icon {
 .contact-info-upper-container {
   display: flex;
   justify-content: center;
+  gap: 0.5rem;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);

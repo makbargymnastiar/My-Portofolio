@@ -106,6 +106,7 @@
   }
 
   .section-pic-container {
+    padding: 1rem;
     width: auto;
     height: 46vw;
     justify-content: center;
